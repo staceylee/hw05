@@ -1,0 +1,71 @@
+body {
+    background: url("2KI4sB.jpg");
+    text-align: center;
+    font-family: verdana;
+}
+
+.col{
+    width: 25%;
+    height: 400px;
+    background: white;
+    margin: 50px 6px;
+    display: inline-block;
+}
+.price-box{
+    width: 100%;
+    height: 200px;
+    background: #004a80;
+}
+
+.plan-text{
+    text-align: center;
+    padding: 18px 0px;
+    font-size: 20px;
+    color: ghostwhite;
+}
+
+.price-text *{
+    display: inline-block;
+    color: white;
+}
+
+.price-text{
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.amount{
+    font-size: 50px;
+}
+
+.dollar{
+    vertical-align: top;
+    padding-top: 8px;
+}
+
+.btn-box{
+    text-align: center;
+    font-size: 16px;
+    color: #e8e8e8;
+    border: 2px solid #ebebeb;
+    border-radius: 6px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0px;
+    margin-top: 20px;
+    
+}
+
+* {
+    box-sizing: border-box;
+    font-family: verdana;
+}
+
+.icons{
+    color: #c6c6c6;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
